@@ -34,10 +34,8 @@ Shoot when player is in sight
 📸 Screenshots
 
 (Add your real images here)
-
-<img src="screenshots/screen1.png" width="600"/>
-<img src="screenshots/screen2.png" width="600"/>
-<img src="screenshots/screen3.png" width="600"/>
+![Nmap Scan](link-to-image
+![Nmap Scan](link-to-image
 
 🎥 Gameplay Video
 
