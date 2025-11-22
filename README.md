@@ -33,15 +33,9 @@ Shoot when player is in sight
 
 📸 Screenshots
 
-(Add your real images here)
 https://github.com/krishnadas-p/Tanker-Shooting/blob/main/Screenshot%202025-11-22%20221138.png
 https://github.com/krishnadas-p/Tanker-Shooting/blob/main/Screenshot%202025-11-22%20221759.png
 
-🎥 Gameplay Video
-
-(Paste your YouTube link)
-
-[![Watch Gameplay](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
 
 🧩 Tech Stack
 
